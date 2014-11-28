@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AWTutorial", "AWTutorial\AWTutorial.dwproj", "{6D1E79F4-972C-4A11-A6CE-32A0C4E9845F}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "4Start", "..\Lesson 4 Start\Analysis Services Tutorial\4Start.dwproj", "{06773AD8-8E7A-4EC3-B7EF-C705F097B868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D1E79F4-972C-4A11-A6CE-32A0C4E9845F}.Development|Default.ActiveCfg = Development
+		{6D1E79F4-972C-4A11-A6CE-32A0C4E9845F}.Development|Default.Build.0 = Development
+		{6D1E79F4-972C-4A11-A6CE-32A0C4E9845F}.Development|Default.Deploy.0 = Development
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.ActiveCfg = Development
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.Build.0 = Development
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
